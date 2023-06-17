@@ -60,7 +60,7 @@ def unload_kandinsky_model():
 
 class Script(scripts.Script):
     attention_type = 'auto'#'max'
-    cache_dir="models/Kandinsky"
+    cache_dir="/media/3tb/secondtry/Kandinsky-2/model"
     #img2_name = ""
 
     def title(self):
